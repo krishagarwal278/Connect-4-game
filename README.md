@@ -1,1 +1,1 @@
-# X-and-O-game
+# Connect 4 Game
